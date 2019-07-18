@@ -1,0 +1,5 @@
+First Name - SampleFirstname	Last Name - SampleLastname
+Phone Number - 0001112345	Email Address - sample@test.com
+Password - justAsample
+Date Registered - 2019/07/17 19:40:13
+
